@@ -1,0 +1,9 @@
+.visually-hidden {
+  width: 100px;
+  transition-property: width ;
+  transition-duration: 2s;
+}
+
+.visually-hidden:hover {
+width: 300px;
+}
