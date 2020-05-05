@@ -1,0 +1,9 @@
+#port {
+  width: 300px;
+  transition: width 2s ease-out 250ms;
+}
+
+/* Then on a hover event to change the width to 400px */
+#port:hover {
+  width: 400px;
+}
